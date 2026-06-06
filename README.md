@@ -134,4 +134,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Simply save the file and open it in any modern browser. Grant camera permissions when prompted, and you'll have a fully functional AI fitness trainer running entirely in your browser!
 
 ---
-for more contact (professorshami435@gmail.com)
+for more projects and FYP'scontact professorshami435@gmail.com
