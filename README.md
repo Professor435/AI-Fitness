@@ -9,7 +9,7 @@ I've created a fully functional, feature-rich **AI Fitness Trainer** with real-t
 
 ### **Core Capabilities**
 - **Real-time Pose Detection** using MediaPipe BlazePose (33 body landmarks at 30fps)
-- **Automatic Rep Counter** with state machine logic (Ready → Down → Up → Count)
+- **Automatic Rep Counter** with state machine logic (Ready → Down → Up → Count) 
 - **AI Form Analysis** with real-time joint angle calculations
 - **Visual Skeleton Overlay** with animated joint tracking
 - **Audio Feedback** with Web Audio API (start, rep, completion sounds)
